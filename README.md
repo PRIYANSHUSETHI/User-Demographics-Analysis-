@@ -125,6 +125,6 @@ pip install pandas seaborn matplotlib scikit-learn plotly
 
 For suggestions, improvements, or collaborations:
 
-**Your Name**  
+**Priyanshu Sethi**  
 [Your GitHub Profile](https://github.com/PRIYANSHUSETHI)  
 [Your LinkedIn](https://www.linkedin.com/in/priyanshu-sethi-bitsh/)
